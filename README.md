@@ -15,4 +15,8 @@ first advanced
 
 added change on updates branch
 
+<<<<<<< Updated upstream
 correct updates
+=======
+modified stashing
+>>>>>>> Stashed changes
