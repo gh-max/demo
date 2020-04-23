@@ -20,3 +20,6 @@ correct updates
 =======
 modified stashing
 >>>>>>> Stashed changes
+
+updates in stages
+
