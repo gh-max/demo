@@ -1,9 +1,4 @@
-# License
+# License V01
 
-# Something
+# License V02
 
-added
-
-changed #1 before adding to what is to be commited
-
-chenged #2 after adding to what is to be committed
