@@ -3,24 +3,6 @@
 
 This is a simple readme file
 
-Modified readme
+updates in stage 01 24/04/ 16:41
 
-modified again
-
-modified
-
-modified
-
-first advanced
-
-added change on updates branch
-
-<<<<<<< Updated upstream
-correct updates
-=======
-modified stashing
->>>>>>> Stashed changes
-
-updates in stages
-
-updates in stages two
+updates in stage 02 24/04/ 16:42
